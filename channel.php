@@ -63,7 +63,7 @@
 					<div class="channelBtn">
 						<section class="channel-panel-01 turnBoxButton turnBoxButtonEventMouseover">
 							<a href="channel01.php">
-								<p class="text">1 夢対談</p>
+								<p class="text">1 夢対談?</p>
 							</a>
 						</section>
 						<section class="channel-panel-02 turnBoxButton turnBoxButtonPrev turnBoxButtonEventMouseout">
