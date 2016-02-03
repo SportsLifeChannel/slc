@@ -10,7 +10,7 @@
 			$(".uk-scrollspy-init-inview").css("height",channelWidth + "px");
 			$(".text").css("height",channelWidth + "px");
 			$(".text").css("width",channelWidth + "px");
-			
+
 
 			$(".channelBtn").turnBox({
 				  width: $('.uk-scrollspy-init-inview').width(),
@@ -22,7 +22,7 @@
 				  easing: "linear",
 				  direction: "positive",
 				  type: "repeat"
-				});	
+				});
 
 			$(".example").turnBox();
 
@@ -33,7 +33,7 @@
 				$(".uk-scrollspy-init-inview").css("height",channelWidth + "px");
 				$(".text").css("height",channelWidth + "px");
 				$(".text").css("width",channelWidth + "px");
-		
+
 				$(".channelBtn").turnBox({
 				  width: $('.uk-scrollspy-init-inview').width(),
 				  height: $('.uk-scrollspy-init-inview').width(),
@@ -44,10 +44,10 @@
 				  easing: "linear",
 				  direction: "positive",
 				  type: "repeat"
-				});	
+				});
 			}
 
-			
+
 		});
 
 	</script>
@@ -63,7 +63,7 @@
 					<div class="channelBtn">
 						<section class="channel-panel-01 turnBoxButton turnBoxButtonEventMouseover">
 							<a href="channel01.php">
-								<p class="text">1 夢の対談</p>
+								<p class="text">1 夢対談</p>
 							</a>
 						</section>
 						<section class="channel-panel-02 turnBoxButton turnBoxButtonPrev turnBoxButtonEventMouseout">
@@ -196,7 +196,7 @@
 				<section class="uk-scrollspy-init-inview com-panel-02" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', repeat: true}">
 					<div class="img">
 						<a href="profile-01.php">
-							<img src="images/home/01_02.png">	
+							<img src="images/home/01_02.png">
 							<div class="name">
 								<p>立命館大学</p>
 								<h2>津田 歩武</h2>
@@ -206,7 +206,7 @@
 				</section>
 				<section class="uk-scrollspy-init-inview com-panel-02" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', repeat: true}">
 					<a href="profile-01.php">
-						<img src="images/home/01_02.png">	
+						<img src="images/home/01_02.png">
 						<div class="name">
 							<p>立命館大学</p>
 							<h2>津田 歩武</h2>
@@ -215,7 +215,7 @@
 				</section>
 				<section class="uk-hidden-small uk-scrollspy-init-inview com-panel-02" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', repeat: true}">
 					<a href="profile-01.php">
-						<img src="images/home/01_02.png">	
+						<img src="images/home/01_02.png">
 						<div class="name">
 							<p>立命館大学</p>
 							<h2>津田 歩武</h2>
@@ -225,7 +225,7 @@
 			</div>
 		</div>
 	</div>
-				
+
 	</div>
 
 	<div id="channel01-04">
@@ -235,7 +235,7 @@
 				<section class="uk-scrollspy-init-inview com-panel-02" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', repeat: true}">
 					<div class="img">
 						<a href="profile-01.php">
-							<img src="images/home/01_02.png">	
+							<img src="images/home/01_02.png">
 							<div class="name">
 								<p>立命館大学</p>
 								<h2>津田 歩武</h2>
@@ -245,7 +245,7 @@
 				</section>
 				<section class="uk-scrollspy-init-inview com-panel-02" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', repeat: true}">
 					<a href="profile-01.php">
-						<img src="images/home/01_02.png">	
+						<img src="images/home/01_02.png">
 						<div class="name">
 							<p>立命館大学</p>
 							<h2>津田 歩武</h2>
@@ -254,7 +254,7 @@
 				</section>
 				<section class="uk-hidden-small uk-scrollspy-init-inview com-panel-02" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', repeat: true}">
 					<a href="profile-01.php">
-						<img src="images/home/01_02.png">	
+						<img src="images/home/01_02.png">
 						<div class="name">
 							<p>立命館大学</p>
 							<h2>津田 歩武</h2>
@@ -272,7 +272,7 @@
 				<section class="uk-scrollspy-init-inview com-panel-02" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', repeat: true}">
 					<div class="img">
 						<a href="profile-01.php">
-							<img src="images/home/01_02.png">	
+							<img src="images/home/01_02.png">
 							<div class="name">
 								<p>立命館大学</p>
 								<h2>津田 歩武</h2>
@@ -282,7 +282,7 @@
 				</section>
 				<section class="uk-scrollspy-init-inview com-panel-02" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', repeat: true}">
 					<a href="profile-01.php">
-						<img src="images/home/01_02.png">	
+						<img src="images/home/01_02.png">
 						<div class="name">
 							<p>立命館大学</p>
 							<h2>津田 歩武</h2>
@@ -291,7 +291,7 @@
 				</section>
 				<section class="uk-hidden-small uk-scrollspy-init-inview com-panel-02" data-uk-scrollspy="{cls:'uk-animation-slide-bottom', repeat: true}">
 					<a href="profile-01.php">
-						<img src="images/home/01_02.png">	
+						<img src="images/home/01_02.png">
 						<div class="name">
 							<p>立命館大学</p>
 							<h2>津田 歩武</h2>
